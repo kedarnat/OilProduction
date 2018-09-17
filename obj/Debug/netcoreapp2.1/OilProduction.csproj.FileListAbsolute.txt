@@ -1,0 +1,11 @@
+c:\users\u1fc308\source\repos\OilProduction\OilProduction\bin\Debug\netcoreapp2.1\OilProduction.deps.json
+c:\users\u1fc308\source\repos\OilProduction\OilProduction\bin\Debug\netcoreapp2.1\OilProduction.runtimeconfig.json
+c:\users\u1fc308\source\repos\OilProduction\OilProduction\bin\Debug\netcoreapp2.1\OilProduction.runtimeconfig.dev.json
+c:\users\u1fc308\source\repos\OilProduction\OilProduction\bin\Debug\netcoreapp2.1\OilProduction.dll
+c:\users\u1fc308\source\repos\OilProduction\OilProduction\bin\Debug\netcoreapp2.1\OilProduction.pdb
+c:\users\u1fc308\source\repos\OilProduction\OilProduction\obj\Debug\netcoreapp2.1\OilProduction.csprojAssemblyReference.cache
+c:\users\u1fc308\source\repos\OilProduction\OilProduction\obj\Debug\netcoreapp2.1\OilProduction.csproj.CoreCompileInputs.cache
+c:\users\u1fc308\source\repos\OilProduction\OilProduction\obj\Debug\netcoreapp2.1\OilProduction.AssemblyInfoInputs.cache
+c:\users\u1fc308\source\repos\OilProduction\OilProduction\obj\Debug\netcoreapp2.1\OilProduction.AssemblyInfo.cs
+c:\users\u1fc308\source\repos\OilProduction\OilProduction\obj\Debug\netcoreapp2.1\OilProduction.dll
+c:\users\u1fc308\source\repos\OilProduction\OilProduction\obj\Debug\netcoreapp2.1\OilProduction.pdb
